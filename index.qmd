@@ -1,0 +1,17 @@
+---
+title: "Lam NGUYEN Thanh"
+image: 
+about:
+  template: trestles
+  image-shape: round
+  links:
+    - icon: github
+      text: Github
+      href: https://github.com/lamngthanh/
+    - icon: linkedin
+      text: Linkedin
+      href: https://www.linkedin.com/in/thanhlamm2806/
+comments: false
+---
+
+Lam NGUYEN Thanh just says hi to you :D
